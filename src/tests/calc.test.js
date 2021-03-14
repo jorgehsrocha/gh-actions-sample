@@ -8,6 +8,6 @@ test("Soma deve retornar 2", () => {
 });
 
 test("Multiplicação deve retornar 6", () => {
-    const result = calc.multiply(3,2);
+    const result = calc.multiply(3,1);
     expect(result).toEqual(6);
 });
