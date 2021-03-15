@@ -1,0 +1,3 @@
+sonar.projectKey=jorgehsrocha_gh-actions-sample
+sonar.source=https://sonarcloud.io/
+sonar.organization=jorgehsrocha
